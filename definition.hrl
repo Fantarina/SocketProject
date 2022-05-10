@@ -1,0 +1,6 @@
+-define(HOST1,{127,0,0,1}).
+-define(HOST2,{127,0,0,2}).
+-define(HOST3,{127,0,0,3}).
+-define(PORT1,10001).
+-define(PORT2,10003).
+-define(PORT3,10002).
